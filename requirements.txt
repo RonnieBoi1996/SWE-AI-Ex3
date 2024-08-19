@@ -1,0 +1,4 @@
+python-dotenv
+openai
+duckduckgo_search
+pandas

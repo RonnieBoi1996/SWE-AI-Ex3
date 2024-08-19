@@ -1,0 +1,11 @@
+{
+    "query_name": "query1.txt",
+    "file_resources": [
+        {"file_name":"class2.csv",
+         "description":"A csv file describing students and their grades. the first line contains the columns (field names) of each following row. They are:  First, Last, Year, Class, Name,Grade. An example row is: Shalom,Levi,3,Calculus,93.5"
+        },
+        {"file_name":"students.txt",
+         "description":"a text file containing information on some of the students, including his or her aspirations, favorite city, and hobbies."
+        }]
+}
+
